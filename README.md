@@ -99,7 +99,3 @@ This project was built to practice:
 - Add error handling and retry logic.
 - Allow users to supply their own topics.
 - Add automated tests.
-
-## License
-
-No license has been specified yet. Add a license if you want to define how others may use, modify, and distribute this project.
